@@ -1,0 +1,46 @@
+5.
+
+a)
+On branch master
+Your branch is up-to-date with 'origin/master'.
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+        modified:   status.txt
+		
+b)
+6
+git log
+
+c)
+
+git log .gitignore
+Wed Sep 27 16:03:55 2017 -0500
+
+d)
+
+commit 36a8e55e4bbdd171ab57d979e1a802d740f2db9b
+commit cb30d72a3d94c108f393c163a35c1cc9bf18ffca
+
+e)
+Branching allows for developers to work independent on a feature and then merge the new functionality with a team.
+A the master branch serves a central point where developers can all pull the same code, this keeps everyone on the same page.
+
+f)
+git log shows the timeline of commits to the remote repo.
+git status shows current state of your local repo.
+
+g)
+
+git log Weapon.h
+
+h)
+
+git log *file*
+
+i)
+
+Inheritance is a classes ability to inherit the protected properties of a parent class so that the sub class can use these inherited methods.
+Polymorphism is a classes ability to process objects of many different types based on class or data type.
+Encapsulation is the idea of protecting a program from being misused. Hiding data and lower level details is important when writing good software.
