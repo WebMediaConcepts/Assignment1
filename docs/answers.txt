@@ -44,3 +44,9 @@ i)
 Inheritance is a classes ability to inherit the protected properties of a parent class so that the sub class can use these inherited methods.
 Polymorphism is a classes ability to process objects of many different types based on class or data type.
 Encapsulation is the idea of protecting a program from being misused. Hiding data and lower level details is important when writing good software.
+
+7)
+
+The role game uses Encapsulation in order to provide a consistent and stable game for the end developer. Protection levels ensure this standard is maintained within the program.
+
+The game also is an example of polymorphism as should by the simulateweapon. You pass an argument into the function and will be able to derive a variety of subclasses.
